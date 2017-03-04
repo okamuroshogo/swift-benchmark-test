@@ -1,0 +1,41 @@
+defaults: &defaults
+  log:
+    stdout:   "stdout.log"
+    stderr:   "stderr.log"
+    append:   true
+  pid:        "tmp/pids/app.pid"
+  socket:     "tmp/sockets/app.sock"
+  state:      "tmp/pids/app.state"
+
+  worker:     0
+  port: 3000
+  daemonize: false
+  socket_binding: true
+
+development:
+  <<: *defaults
+  thread:
+    min:      1
+    max:      1
+
+test:
+  <<: *defaults
+  thread:
+    min:      4
+    max:      4
+
+staging:
+  <<: *defaults
+  daemonize: true
+  worker: 2
+  thread:
+    min:      12
+    max:      12
+
+production:
+  <<: *defaults
+  daemonize: true
+  worker: 3
+  thread:
+    min:      20
+    max:      20
