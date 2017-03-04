@@ -11,11 +11,7 @@ require "yaml"
 
 RAILS_ENV = ENV['RAILS_ENV'] || 'development'
 # ROOT
-if RAILS_ENV == 'development'
-  RAILS_ROOT = File.expand_path(File.dirname(__FILE__) + "/..")
-else
-  RAILS_ROOT = File.expand_path(File.dirname(__FILE__) + "/../../../current")
-end
+RAILS_ROOT = File.expand_path(File.dirname(__FILE__) + "/..")
 # RAILS ENV
 
 # config
