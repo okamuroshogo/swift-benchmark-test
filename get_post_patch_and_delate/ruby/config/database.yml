@@ -13,20 +13,20 @@ default: &default
   adapter: mysql2
   encoding: utf8
   pool: 5
-  username: root
-  password:
-  socket: /tmp/mysql.sock
+  username: <%= ENV['MYSQL_USER'] %>
+  password: <%= ENV['MYSQL_PASS'] %>
+  host: <%= ENV['MYSQL_HOST'] %> 
+  database: <%= ENV['MYSQL_DB'] %>
 
 development:
   <<: *default
-  database: tryswift_development
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
 # Do not set this db to the same as development or production.
 test:
   <<: *default
-  database: tryswift_test
+  database: helloworld_test
 
 # As with config/secrets.yml, you never want to store sensitive information,
 # like your database password, in your source code. If your source code is
@@ -49,6 +49,3 @@ test:
 #
 production:
   <<: *default
-  database: tryswift_production
-  username: tryswift
-  password: <%= ENV['TRYSWIFT_DATABASE_PASSWORD'] %>
