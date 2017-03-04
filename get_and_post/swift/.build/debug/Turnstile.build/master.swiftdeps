@@ -1,0 +1,17 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "66e67e9670b6404c8cbbef8a4c5929dd"
+build_time: [541915492, 637957000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Turnstile-1.0.6/Sources/Turnstile/TurnstileError.swift": [541913894, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Turnstile-1.0.6/Sources/Turnstile/Core/Subject.swift": [541913894, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Turnstile-1.0.6/Sources/Turnstile/Core/Turnstile.swift": [541913894, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Turnstile-1.0.6/Sources/Turnstile/Credentials/APIKey.swift": [541913894, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Turnstile-1.0.6/Sources/Turnstile/Credentials/Credentials.swift": [541913894, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Turnstile-1.0.6/Sources/Turnstile/Credentials/CredentialsError.swift": [541913894, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Turnstile-1.0.6/Sources/Turnstile/Credentials/Token.swift": [541913894, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Turnstile-1.0.6/Sources/Turnstile/Credentials/UsernamePassword.swift": [541913894, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Turnstile-1.0.6/Sources/Turnstile/Realm/Account.swift": [541913894, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Turnstile-1.0.6/Sources/Turnstile/Realm/MemoryRealm.swift": [541913894, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Turnstile-1.0.6/Sources/Turnstile/Realm/Realm.swift": [541913894, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Turnstile-1.0.6/Sources/Turnstile/SessionManager/MemorySessionManager.swift": [541913894, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Turnstile-1.0.6/Sources/Turnstile/SessionManager/SessionManager.swift": [541913894, 0]

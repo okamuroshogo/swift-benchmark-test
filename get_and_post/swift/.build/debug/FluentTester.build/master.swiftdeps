@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "792723e9f64715f1a1d8b6ae9a7b367f"
+build_time: [541915500, 534789000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Fluent-1.4.1/Sources/FluentTester/Atom.swift": [541915452, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Fluent-1.4.1/Sources/FluentTester/Compound.swift": [541915452, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Fluent-1.4.1/Sources/FluentTester/Student.swift": [541915452, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Fluent-1.4.1/Sources/FluentTester/Tester+InsertAndFind.swift": [541915452, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Fluent-1.4.1/Sources/FluentTester/Tester+PivotsAndRelations.swift": [541915452, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Fluent-1.4.1/Sources/FluentTester/Tester+Schema.swift": [541915452, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Fluent-1.4.1/Sources/FluentTester/Tester+Utilities.swift": [541915452, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Fluent-1.4.1/Sources/FluentTester/Tester.swift": [541915452, 0]

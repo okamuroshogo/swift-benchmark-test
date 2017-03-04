@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/FormData.build/master.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Multipart-1.0.1/Sources/FormData/ContentDispositionParser.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/FormData.build/ContentDispositionParser.d",
+    "object": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/FormData.build/ContentDispositionParser.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/FormData.build/ContentDispositionParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/FormData.build/ContentDispositionParser.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Multipart-1.0.1/Sources/FormData/Field.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/FormData.build/Field.d",
+    "object": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/FormData.build/Field.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/FormData.build/Field~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/FormData.build/Field.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Multipart-1.0.1/Sources/FormData/Parser.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/FormData.build/Parser.d",
+    "object": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/FormData.build/Parser.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/FormData.build/Parser~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/FormData.build/Parser.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Multipart-1.0.1/Sources/FormData/Serializer.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/FormData.build/Serializer.d",
+    "object": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/FormData.build/Serializer.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/FormData.build/Serializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/FormData.build/Serializer.swiftdeps"
+  }
+}

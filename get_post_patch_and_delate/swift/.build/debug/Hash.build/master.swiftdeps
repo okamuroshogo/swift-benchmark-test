@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "6deb4b40d77e364db3452a43c6cd4f8c"
+build_time: [541921626, 290381000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Crypto-1.1.0/Sources/Hash/Hash.swift": [541920601, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Crypto-1.1.0/Sources/Hash/Method.swift": [541920601, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Crypto-1.1.0/Sources/Hash/Random.swift": [541920604, 0]

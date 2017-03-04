@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "e954de0c1d5212bcdc68dcbe32741443"
+build_time: [541921640, 231894000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Routing-1.0.2/Sources/Routing/Branch.swift": [541920733, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Routing-1.0.2/Sources/Routing/ParametersContainer.swift": [541920732, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Routing-1.0.2/Sources/Routing/RouteBuilder+RouteCollection.swift": [541920732, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Routing-1.0.2/Sources/Routing/RouteBuilder+RouteGroup.swift": [541920732, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Routing-1.0.2/Sources/Routing/RouteBuilder.swift": [541920732, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Routing-1.0.2/Sources/Routing/RouteCollection.swift": [541920732, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Routing-1.0.2/Sources/Routing/RouteGroup+RouteBuilder.swift": [541920732, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Routing-1.0.2/Sources/Routing/RouteGroup.swift": [541920732, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Routing-1.0.2/Sources/Routing/Router+Routes.swift": [541920732, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Routing-1.0.2/Sources/Routing/Router.swift": [541920732, 0]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "57bc47d171c8f48ea62512a0bdff4de4"
+build_time: [541921602, 791977000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Polymorphic-1.0.1/Sources/Polymorphic.swift": [541920676, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Polymorphic-1.0.1/Sources/String+Polymorphic.swift": [541920676, 0]

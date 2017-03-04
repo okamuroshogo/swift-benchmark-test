@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "3eae7c0573cc82dec4f0b104b33652c9"
+build_time: [541921612, 145447000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/TLS-1.1.1/Sources/TLS/Certificates.swift": [541920703, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/TLS-1.1.1/Sources/TLS/Config.swift": [541920703, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/TLS-1.1.1/Sources/TLS/Context.swift": [541920703, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/TLS-1.1.1/Sources/TLS/Error.swift": [541920703, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/TLS-1.1.1/Sources/TLS/Mode.swift": [541920703, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/TLS-1.1.1/Sources/TLS/Socket.swift": [541920703, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/TLS-1.1.1/Sources/TLS/Utilities.swift": [541920703, 0]

@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "1c5039b978a4fd6ad517d06da8684032"
+build_time: [541921644, 772936000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Routing-1.0.2/Sources/HTTPRouting/Request+Routing.swift": [541920732, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Routing-1.0.2/Sources/HTTPRouting/RouteBuilder+HTTP.swift": [541920732, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Routing-1.0.2/Sources/HTTPRouting/Router+HTTP.swift": [541920732, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Routing-1.0.2/Sources/HTTPRouting/Routing+HTTP.swift": [541920732, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Routing-1.0.2/Sources/HTTPRouting/Utilities.swift": [541920732, 0]

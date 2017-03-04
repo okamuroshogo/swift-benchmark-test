@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/.build/debug/VaporMySQL.build/master.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/VaporMySQL-1.1.1/Sources/VaporMySQL/Provider.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/.build/debug/VaporMySQL.build/Provider.d",
+    "object": "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/.build/debug/VaporMySQL.build/Provider.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/.build/debug/VaporMySQL.build/Provider~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/.build/debug/VaporMySQL.build/Provider.swiftdeps"
+  }
+}

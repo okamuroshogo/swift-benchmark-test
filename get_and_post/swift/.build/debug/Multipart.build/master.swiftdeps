@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "af985fe640b1100c58dac0361ce64224"
+build_time: [541915515, 423785000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Multipart-1.0.1/Sources/Multipart/BoundaryParser.swift": [541913906, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Multipart-1.0.1/Sources/Multipart/HeaderParser.swift": [541913906, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Multipart-1.0.1/Sources/Multipart/Multipart+BytesConvertible.swift": [541913906, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Multipart-1.0.1/Sources/Multipart/Parser.swift": [541913907, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Multipart-1.0.1/Sources/Multipart/Part.swift": [541913906, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Multipart-1.0.1/Sources/Multipart/Serializer.swift": [541913907, 0]

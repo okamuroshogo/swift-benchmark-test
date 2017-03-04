@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cipher.build/master.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Crypto-1.1.0/Sources/Cipher/Cipher.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cipher.build/Cipher.d",
+    "object": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cipher.build/Cipher.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cipher.build/Cipher~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cipher.build/Cipher.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Crypto-1.1.0/Sources/Cipher/Method.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cipher.build/Method.d",
+    "object": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cipher.build/Method.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cipher.build/Method~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cipher.build/Method.swiftdeps"
+  }
+}

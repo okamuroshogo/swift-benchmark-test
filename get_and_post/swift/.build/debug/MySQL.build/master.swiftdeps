@@ -1,0 +1,15 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "28a9b63d5878f05cdab55479f1611a2b"
+build_time: [541915498, 300860000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/MySQL-1.1.2/Sources/MySQL/Bind+Node.swift": [541915455, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/MySQL-1.1.2/Sources/MySQL/Bind.swift": [541915455, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/MySQL-1.1.2/Sources/MySQL/Binds.swift": [541915455, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/MySQL-1.1.2/Sources/MySQL/Connection.swift": [541915455, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/MySQL-1.1.2/Sources/MySQL/Database.swift": [541915455, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/MySQL-1.1.2/Sources/MySQL/Error.swift": [541915455, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/MySQL-1.1.2/Sources/MySQL/Field+Variant.swift": [541915455, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/MySQL-1.1.2/Sources/MySQL/Field.swift": [541915455, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/MySQL-1.1.2/Sources/MySQL/Fields.swift": [541915455, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/MySQL-1.1.2/Sources/MySQL/MySQL+Date.swift": [541915455, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/MySQL-1.1.2/Sources/MySQL/MySQL+Node.swift": [541913988, 0]

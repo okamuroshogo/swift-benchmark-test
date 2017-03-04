@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "c46b6dd5bddde4e95f3a8f769a6f8079"
+build_time: [541921629, 869950000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Engine-1.3.11/Sources/Transport/Streams/FoundationStream.swift": [541920680, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Engine-1.3.11/Sources/Transport/Streams/Socks+Stream.swift": [541920680, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Engine-1.3.11/Sources/Transport/Streams/Stream.swift": [541920697, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Engine-1.3.11/Sources/Transport/Streams/StreamBuffer.swift": [541920680, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Engine-1.3.11/Sources/Transport/Streams/Watchable.swift": [541920680, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Engine-1.3.11/Sources/Transport/TransferProtocols/TransferProtocols.swift": [541920680, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Engine-1.3.11/Sources/Transport/Streams/ProgramStream/ClientStream.swift": [541920680, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Engine-1.3.11/Sources/Transport/Streams/ProgramStream/ProgramStream.swift": [541920680, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Engine-1.3.11/Sources/Transport/Streams/ProgramStream/ServerStream.swift": [541920680, 0]

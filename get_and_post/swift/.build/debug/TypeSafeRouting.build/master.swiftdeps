@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "ef01d9002408f4dc0f347504de49567d"
+build_time: [541915520, 8367000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Routing-1.0.2/Sources/TypeSafeRouting/Generated.swift": [541913903, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Routing-1.0.2/Sources/TypeSafeRouting/StringInitializable.swift": [541913903, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Routing-1.0.2/Sources/TypeSafeRouting/TypeSafeRoutingError.swift": [541913903, 0]

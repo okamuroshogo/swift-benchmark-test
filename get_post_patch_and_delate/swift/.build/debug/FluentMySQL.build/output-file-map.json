@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/.build/debug/FluentMySQL.build/master.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/FluentMySQL-1.2.0/Sources/FluentMySQL/Creator+MySQLTypes.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/.build/debug/FluentMySQL.build/Creator+MySQLTypes.d",
+    "object": "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/.build/debug/FluentMySQL.build/Creator+MySQLTypes.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/.build/debug/FluentMySQL.build/Creator+MySQLTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/.build/debug/FluentMySQL.build/Creator+MySQLTypes.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/FluentMySQL-1.2.0/Sources/FluentMySQL/MySQLDriver.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/.build/debug/FluentMySQL.build/MySQLDriver.d",
+    "object": "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/.build/debug/FluentMySQL.build/MySQLDriver.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/.build/debug/FluentMySQL.build/MySQLDriver~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/.build/debug/FluentMySQL.build/MySQLDriver.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/FluentMySQL-1.2.0/Sources/FluentMySQL/MySQLSerializer.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/.build/debug/FluentMySQL.build/MySQLSerializer.d",
+    "object": "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/.build/debug/FluentMySQL.build/MySQLSerializer.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/.build/debug/FluentMySQL.build/MySQLSerializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/.build/debug/FluentMySQL.build/MySQLSerializer.swiftdeps"
+  }
+}

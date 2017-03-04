@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cache.build/master.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Cache/CacheProtocol.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cache.build/CacheProtocol.d",
+    "object": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cache.build/CacheProtocol.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cache.build/CacheProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cache.build/CacheProtocol.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Cache/FluentCache.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cache.build/FluentCache.d",
+    "object": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cache.build/FluentCache.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cache.build/FluentCache~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cache.build/FluentCache.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Cache/MemoryCache.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cache.build/MemoryCache.d",
+    "object": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cache.build/MemoryCache.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cache.build/MemoryCache~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Cache.build/MemoryCache.swiftdeps"
+  }
+}

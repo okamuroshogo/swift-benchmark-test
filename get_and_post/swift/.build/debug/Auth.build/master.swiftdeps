@@ -1,0 +1,19 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "a8cceb5a02d6d1009bfb1f87da4f75cb"
+build_time: [541915523, 936312000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Auth/Authentication/AuthError.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Auth/Authentication/AuthMiddleware.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Auth/Authentication/CacheSessionManager.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Auth/Authentication/LoginRedirectMiddleware.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Auth/Authentication/ProtectMiddleware.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Auth/Authentication/Request+Subject.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Auth/Authentication/Authenticator/Authenticator.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Auth/Authentication/Authenticator/Realm.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Auth/Authentication/Authenticator/User+Authenticator.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Auth/Authentication/Credentials/Identifier.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Auth/Authentication/Header/Authorization.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Auth/Authentication/Header/Basic.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Auth/Authentication/Header/Bearer.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Auth/Authentication/Header/Request+Authorization.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Auth/Authentication/User/User.swift": [541915451, 0]

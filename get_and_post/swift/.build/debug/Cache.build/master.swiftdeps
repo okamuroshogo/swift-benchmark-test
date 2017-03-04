@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "beca540e3afe85d5a4bb64d838457882"
+build_time: [541915521, 540583000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Cache/CacheProtocol.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Cache/FluentCache.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Cache/MemoryCache.swift": [541915451, 0]

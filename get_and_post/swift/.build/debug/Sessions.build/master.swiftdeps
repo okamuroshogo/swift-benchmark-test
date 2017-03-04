@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "54ce6d3131720d7b3736f2bdc0d8e27e"
+build_time: [541915523, 935989000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Sessions/CacheSessions.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Sessions/MemorySessions.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Sessions/Request+Session.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Sessions/Session.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Sessions/SessionsMiddleware.swift": [541915451, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Vapor-1.5.8/Sources/Sessions/SessionsProtocol.swift": [541915451, 0]

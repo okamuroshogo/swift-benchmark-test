@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "d4d7aebaa14c549adbc89528aa63afaa"
+build_time: [541915486, 738393000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Socks-1.2.7/Sources/Socks/Socks.swift": [541913878, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Socks-1.2.7/Sources/Socks/SynchronousTCPServer.swift": [541913878, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Socks-1.2.7/Sources/Socks/SynchronousUDPServer.swift": [541913878, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Socks-1.2.7/Sources/Socks/TCPClient.swift": [541913878, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Socks-1.2.7/Sources/Socks/UDPClient.swift": [541913878, 0]

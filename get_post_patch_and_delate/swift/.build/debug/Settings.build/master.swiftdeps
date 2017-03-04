@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "0ff1931c4d51284adc70fd22106bfcfd"
+build_time: [541921647, 777103000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Vapor-1.5.8/Sources/Settings/Config+Arguments.swift": [541920584, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Vapor-1.5.8/Sources/Settings/Config+Directory.swift": [541920599, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Vapor-1.5.8/Sources/Settings/Config.swift": [541920599, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Vapor-1.5.8/Sources/Settings/KeyAccessible+Merge.swift": [541920584, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Vapor-1.5.8/Sources/Settings/KeyAccessible.swift": [541920584, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Vapor-1.5.8/Sources/Settings/Node+Merge.swift": [541920584, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Vapor-1.5.8/Sources/Settings/Source.swift": [541920584, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Vapor-1.5.8/Sources/Settings/Env/Env.swift": [541920584, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Vapor-1.5.8/Sources/Settings/Env/Node+Env.swift": [541920599, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Vapor-1.5.8/Sources/Settings/Env/String+Env.swift": [541920599, 0]

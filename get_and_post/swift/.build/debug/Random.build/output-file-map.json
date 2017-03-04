@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Random.build/master.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Crypto-1.1.0/Sources/Random/CryptoRandom.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Random.build/CryptoRandom.d",
+    "object": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Random.build/CryptoRandom.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Random.build/CryptoRandom~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Random.build/CryptoRandom.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Crypto-1.1.0/Sources/Random/Random+Deprecated.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Random.build/Random+Deprecated.d",
+    "object": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Random.build/Random+Deprecated.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Random.build/Random+Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Random.build/Random+Deprecated.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Crypto-1.1.0/Sources/Random/Random.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Random.build/Random.d",
+    "object": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Random.build/Random.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Random.build/Random~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Random.build/Random.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Crypto-1.1.0/Sources/Random/URandom.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Random.build/URandom.d",
+    "object": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Random.build/URandom.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Random.build/URandom~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/get_and_post/swift/.build/debug/Random.build/URandom.swiftdeps"
+  }
+}

@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "8f8935d6732d744ef31e4366b1b4b4b8"
+build_time: [541915501, 205882000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Crypto-1.1.0/Sources/BCrypt/BCrypt+Deprecated.swift": [541913784, 0]
+  "/Users/okasho/serverProject/tryswift/get_and_post/swift/Packages/Crypto-1.1.0/Sources/BCrypt/BCrypt.swift": [541913784, 0]

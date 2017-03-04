@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "c330f7a73f1bb408b259f586afe5fac7"
+build_time: [541921602, 786960000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Turnstile-1.0.6/Sources/TurnstileCrypto/BCrypt.swift": [541920723, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Turnstile-1.0.6/Sources/TurnstileCrypto/Random.swift": [541920723, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Turnstile-1.0.6/Sources/TurnstileCrypto/URandom.swift": [541920723, 0]

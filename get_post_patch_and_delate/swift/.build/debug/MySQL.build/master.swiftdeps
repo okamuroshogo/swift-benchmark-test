@@ -1,0 +1,15 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "42f4403e9d2f62284b13994f42f0e6d4"
+build_time: [541921616, 874210000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/MySQL-1.1.2/Sources/MySQL/Bind+Node.swift": [541921593, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/MySQL-1.1.2/Sources/MySQL/Bind.swift": [541921593, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/MySQL-1.1.2/Sources/MySQL/Binds.swift": [541921591, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/MySQL-1.1.2/Sources/MySQL/Connection.swift": [541921593, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/MySQL-1.1.2/Sources/MySQL/Database.swift": [541921593, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/MySQL-1.1.2/Sources/MySQL/Error.swift": [541921591, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/MySQL-1.1.2/Sources/MySQL/Field+Variant.swift": [541921591, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/MySQL-1.1.2/Sources/MySQL/Field.swift": [541921591, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/MySQL-1.1.2/Sources/MySQL/Fields.swift": [541921591, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/MySQL-1.1.2/Sources/MySQL/MySQL+Date.swift": [541921593, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/MySQL-1.1.2/Sources/MySQL/MySQL+Node.swift": [541921591, 0]

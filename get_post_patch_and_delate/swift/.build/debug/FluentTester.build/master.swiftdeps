@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "731931e370d74c6da8333970284561a8"
+build_time: [541921627, 585170000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Fluent-1.4.1/Sources/FluentTester/Atom.swift": [541920661, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Fluent-1.4.1/Sources/FluentTester/Compound.swift": [541920661, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Fluent-1.4.1/Sources/FluentTester/Student.swift": [541920661, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Fluent-1.4.1/Sources/FluentTester/Tester+InsertAndFind.swift": [541920661, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Fluent-1.4.1/Sources/FluentTester/Tester+PivotsAndRelations.swift": [541920661, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Fluent-1.4.1/Sources/FluentTester/Tester+Schema.swift": [541920661, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Fluent-1.4.1/Sources/FluentTester/Tester+Utilities.swift": [541920661, 0]
+  "/Users/okasho/serverProject/tryswift/get_post_patch_and_delate/swift/Packages/Fluent-1.4.1/Sources/FluentTester/Tester.swift": [541920661, 0]
