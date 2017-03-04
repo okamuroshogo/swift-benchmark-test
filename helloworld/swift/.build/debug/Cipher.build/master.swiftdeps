@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "5e8169ef34a4e963137ff2354310d0e0"
+build_time: [541925252, 516825000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Crypto-1.1.0/Sources/Cipher/Cipher.swift": [541905937, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Crypto-1.1.0/Sources/Cipher/Method.swift": [541905937, 0]

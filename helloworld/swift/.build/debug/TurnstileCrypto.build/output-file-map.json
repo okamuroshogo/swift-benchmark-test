@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/helloworld/swift/.build/debug/TurnstileCrypto.build/master.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Turnstile-1.0.6/Sources/TurnstileCrypto/BCrypt.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/helloworld/swift/.build/debug/TurnstileCrypto.build/BCrypt.d",
+    "object": "/Users/okasho/serverProject/tryswift/helloworld/swift/.build/debug/TurnstileCrypto.build/BCrypt.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/helloworld/swift/.build/debug/TurnstileCrypto.build/BCrypt~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/helloworld/swift/.build/debug/TurnstileCrypto.build/BCrypt.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Turnstile-1.0.6/Sources/TurnstileCrypto/Random.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/helloworld/swift/.build/debug/TurnstileCrypto.build/Random.d",
+    "object": "/Users/okasho/serverProject/tryswift/helloworld/swift/.build/debug/TurnstileCrypto.build/Random.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/helloworld/swift/.build/debug/TurnstileCrypto.build/Random~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/helloworld/swift/.build/debug/TurnstileCrypto.build/Random.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Turnstile-1.0.6/Sources/TurnstileCrypto/URandom.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/helloworld/swift/.build/debug/TurnstileCrypto.build/URandom.d",
+    "object": "/Users/okasho/serverProject/tryswift/helloworld/swift/.build/debug/TurnstileCrypto.build/URandom.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/helloworld/swift/.build/debug/TurnstileCrypto.build/URandom~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/helloworld/swift/.build/debug/TurnstileCrypto.build/URandom.swiftdeps"
+  }
+}

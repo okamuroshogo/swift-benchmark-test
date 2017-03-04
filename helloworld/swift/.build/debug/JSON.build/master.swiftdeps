@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "c0bea9f6eb490adeabcb957bfe98f5c5"
+build_time: [541925249, 139216000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/JSON-1.0.6/Sources/JSON/File.swift": [541906041, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/JSON-1.0.6/Sources/JSON/JSON+Bytes.swift": [541906040, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/JSON-1.0.6/Sources/JSON/JSON+Equatable.swift": [541906041, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/JSON-1.0.6/Sources/JSON/JSON+Node.swift": [541906041, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/JSON-1.0.6/Sources/JSON/JSON+Parse.swift": [541906041, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/JSON-1.0.6/Sources/JSON/JSON+Serialize.swift": [541906041, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/JSON-1.0.6/Sources/JSON/JSON.swift": [541906041, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/JSON-1.0.6/Sources/JSON/JSONRepresentable.swift": [541906041, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/JSON-1.0.6/Sources/JSON/Sequence+Convertible.swift": [541906040, 0]

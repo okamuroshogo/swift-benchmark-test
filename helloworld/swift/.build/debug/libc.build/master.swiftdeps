@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "71dceaa1bb433630a95318a01929222f"
+build_time: [541925233, 387257000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Core-1.1.1/Sources/libc/libc.swift": [541905941, 0]

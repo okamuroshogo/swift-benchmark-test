@@ -1,0 +1,16 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "7dd0cea90c309125760d78d5071486b7"
+build_time: [541925245, 616310000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/URLSession+Turnstile.swift": [541906049, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/WebMemoryRealm.swift": [541906049, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/LoginProviders/Digits.swift": [541906049, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/LoginProviders/Facebook.swift": [541906049, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/LoginProviders/Google.swift": [541906049, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/Protocols/OAuth/OAuthDelegator.swift": [541906049, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/Protocols/OAuth/OAuthEcho.swift": [541906049, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/Protocols/OAuth/OAuthParameters.swift": [541906049, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/Protocols/OAuth2/AuthorizationCode.swift": [541906049, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/Protocols/OAuth2/OAuth2.swift": [541906049, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/Protocols/OAuth2/OAuth2Error.swift": [541906049, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Turnstile-1.0.6/Sources/TurnstileWeb/Protocols/OAuth2/OAuth2Token.swift": [541906049, 0]

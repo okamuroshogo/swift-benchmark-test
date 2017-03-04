@@ -8,6 +8,7 @@ final class PostController: ResourceRepresentable {
 
     func create(request: Request) throws -> ResponseRepresentable {
         var post = try request.post()
+        print(post)
         try post.save()
         return post
     }
@@ -29,7 +30,7 @@ final class PostController: ResourceRepresentable {
     func update(request: Request, post: Post) throws -> ResponseRepresentable {
         let new = try request.post()
         var post = post
-        post.content = new.content
+        post.name = new.name
         try post.save()
         return post
     }
@@ -54,7 +55,9 @@ final class PostController: ResourceRepresentable {
 
 extension Request {
     func post() throws -> Post {
+        print(json)
         guard let json = json else { throw Abort.badRequest }
         return try Post(node: json)
     }
 }
+

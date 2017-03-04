@@ -1,0 +1,19 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "1d877bb7b653086fc21a2497a53b03f5"
+build_time: [541925233, 293634000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Socks-1.2.7/Sources/SocksCore/Address+C.swift": [541906032, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Socks-1.2.7/Sources/SocksCore/Address.swift": [541906032, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Socks-1.2.7/Sources/SocksCore/Bytes.swift": [541906032, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Socks-1.2.7/Sources/SocksCore/Conversions.swift": [541906032, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Socks-1.2.7/Sources/SocksCore/Error.swift": [541906032, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Socks-1.2.7/Sources/SocksCore/FDSet.swift": [541906032, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Socks-1.2.7/Sources/SocksCore/InternetSocket.swift": [541906032, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Socks-1.2.7/Sources/SocksCore/Pipe.swift": [541906032, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Socks-1.2.7/Sources/SocksCore/Select.swift": [541906032, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Socks-1.2.7/Sources/SocksCore/Socket.swift": [541906032, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Socks-1.2.7/Sources/SocksCore/SocketOptions+Deprecated.swift": [541906032, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Socks-1.2.7/Sources/SocksCore/SocketOptions.swift": [541906032, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Socks-1.2.7/Sources/SocksCore/TCPSocket.swift": [541906032, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Socks-1.2.7/Sources/SocksCore/Types.swift": [541906032, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Socks-1.2.7/Sources/SocksCore/UDPSocket.swift": [541906032, 0]

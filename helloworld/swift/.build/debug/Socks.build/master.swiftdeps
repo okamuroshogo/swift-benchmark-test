@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "53777acd7dd6d625808a9a07f9a3a759"
+build_time: [541925236, 819161000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Socks-1.2.7/Sources/Socks/Socks.swift": [541906032, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Socks-1.2.7/Sources/Socks/SynchronousTCPServer.swift": [541906032, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Socks-1.2.7/Sources/Socks/SynchronousUDPServer.swift": [541906032, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Socks-1.2.7/Sources/Socks/TCPClient.swift": [541906032, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Socks-1.2.7/Sources/Socks/UDPClient.swift": [541906032, 0]

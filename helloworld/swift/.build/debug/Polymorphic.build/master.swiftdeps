@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "66909a61740212637affc120d41a459e"
+build_time: [541925233, 235179000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Polymorphic-1.0.1/Sources/Polymorphic.swift": [541906004, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Polymorphic-1.0.1/Sources/String+Polymorphic.swift": [541906004, 0]

@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/helloworld/swift/.build/debug/libc.build/master.swiftdeps"
+  },
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/Core-1.1.1/Sources/libc/libc.swift": {
+    "dependencies": "/Users/okasho/serverProject/tryswift/helloworld/swift/.build/debug/libc.build/libc.d",
+    "object": "/Users/okasho/serverProject/tryswift/helloworld/swift/.build/debug/libc.build/libc.swift.o",
+    "swiftmodule": "/Users/okasho/serverProject/tryswift/helloworld/swift/.build/debug/libc.build/libc~partial.swiftmodule",
+    "swift-dependencies": "/Users/okasho/serverProject/tryswift/helloworld/swift/.build/debug/libc.build/libc.swiftdeps"
+  }
+}

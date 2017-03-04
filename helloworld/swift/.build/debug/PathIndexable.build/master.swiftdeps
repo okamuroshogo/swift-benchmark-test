@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "0824c562d1619c7ab06b28dd9918d1b1"
+build_time: [541925233, 285313000]
+inputs:
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/PathIndexable-1.0.0/Sources/PathIndexable/PathIndexable+Subscripting.swift": [541906001, 0]
+  "/Users/okasho/serverProject/tryswift/helloworld/swift/Packages/PathIndexable-1.0.0/Sources/PathIndexable/PathIndexable.swift": [541906001, 0]
